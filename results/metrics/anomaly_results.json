@@ -1,0 +1,7 @@
+{
+  "threshold_percentile": 5,
+  "threshold_value": -0.5977612512504518,
+  "anomalies_detected": 177,
+  "total_test": 3536,
+  "rate": 0.05005656108597285
+}
