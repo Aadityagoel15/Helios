@@ -1,0 +1,19 @@
+{
+  "created_at": "2025-09-09T11:12:01.936151Z",
+  "train_rows": 24545,
+  "val_rows": 5260,
+  "test_rows": 5260,
+  "targets": {
+    "classification": "disruption_type",
+    "anomaly_detection": true
+  },
+  "models_trained": [
+    "logreg",
+    "rf",
+    "isolation_forest"
+  ],
+  "paths": {
+    "models_dir": "../results/metrics\\models",
+    "results_dir": "../results/metrics"
+  }
+}
