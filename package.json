@@ -1,0 +1,56 @@
+{
+  "name": "supply-chain-risk-detection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@clerk/nextjs": "^6.31.10",
+    "agent-base": "^7.1.4",
+    "bin-links": "^5.0.0",
+    "chownr": "^3.0.0",
+    "cmd-shim": "^7.0.0",
+    "data-uri-to-buffer": "^4.0.1",
+    "debug": "^4.4.1",
+    "dotenv": "^17.2.2",
+    "fetch-blob": "^3.2.0",
+    "formdata-polyfill": "^4.0.10",
+    "https-proxy-agent": "^7.0.6",
+    "imurmurhash": "^0.1.4",
+    "minipass": "^7.1.2",
+    "minizlib": "^3.0.2",
+    "mkdirp": "^3.0.1",
+    "mongoose": "^8.18.1",
+    "ms": "^2.1.3",
+    "node-domexception": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "npm-normalize-package-bin": "^4.0.0",
+    "proc-log": "^5.0.0",
+    "read-cmd-shim": "^5.0.0",
+    "signal-exit": "^4.1.0",
+    "supabase": "^2.40.7",
+    "tar": "^7.4.3",
+    "web-streams-polyfill": "^3.3.3",
+    "write-file-atomic": "^6.0.0",
+    "yallist": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aadityagoel15/Zeus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aadityagoel15/Zeus/issues"
+  },
+  "homepage": "https://github.com/Aadityagoel15/Zeus#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.13"
+  }
+}

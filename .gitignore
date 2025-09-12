@@ -1,2 +1,4 @@
 *.joblib
 .env
+__pycache__
+backend/app/config.py
